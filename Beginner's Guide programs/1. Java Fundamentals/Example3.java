@@ -7,8 +7,8 @@ public static void main(String args[])
 {
 int v ;          //this  declares  an int variable 
 double x;  //this  declares  a floating-point variable
-v=10;      //assigns  v the value of 10
-v = 10.0  // assigns x value 10.0
+v= 10;      //assigns  v the value of 10
+x = 10.0;  // assigns x value 10.0
 System.out.println("Original value of v : "+""+v);
 System.out.println("Original value of v : "+""+x);
 System.out.println();  //print a blank line
